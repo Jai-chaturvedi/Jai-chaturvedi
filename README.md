@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Development and Problem Solving
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to work on fullstack projects
+- I like to solve Data Structures and Algorithm based problems.
 
 
 <!---
